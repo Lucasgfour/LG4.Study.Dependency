@@ -1,0 +1,12 @@
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Commom\bin\Debug\net6.0\LG4.Study.Commom.deps.json
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Commom\bin\Debug\net6.0\LG4.Study.Commom.dll
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Commom\bin\Debug\net6.0\LG4.Study.Commom.pdb
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Commom\obj\Debug\net6.0\LG4.Study.Commom.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Commom\obj\Debug\net6.0\LG4.Study.Commom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Commom\obj\Debug\net6.0\LG4.Study.Commom.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Commom\obj\Debug\net6.0\LG4.Study.Commom.AssemblyInfo.cs
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Commom\obj\Debug\net6.0\LG4.Study.Commom.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Commom\obj\Debug\net6.0\LG4.Study.Commom.dll
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Commom\obj\Debug\net6.0\refint\LG4.Study.Commom.dll
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Commom\obj\Debug\net6.0\LG4.Study.Commom.pdb
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Commom\obj\Debug\net6.0\ref\LG4.Study.Commom.dll

@@ -1,0 +1,12 @@
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Data\bin\Debug\net6.0\LG4.Study.Data.deps.json
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Data\bin\Debug\net6.0\LG4.Study.Data.dll
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Data\bin\Debug\net6.0\LG4.Study.Data.pdb
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Data\obj\Debug\net6.0\LG4.Study.Data.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Data\obj\Debug\net6.0\LG4.Study.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Data\obj\Debug\net6.0\LG4.Study.Data.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Data\obj\Debug\net6.0\LG4.Study.Data.AssemblyInfo.cs
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Data\obj\Debug\net6.0\LG4.Study.Data.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Data\obj\Debug\net6.0\LG4.Study.Data.dll
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Data\obj\Debug\net6.0\refint\LG4.Study.Data.dll
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Data\obj\Debug\net6.0\LG4.Study.Data.pdb
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Data\obj\Debug\net6.0\ref\LG4.Study.Data.dll

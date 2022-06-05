@@ -1,0 +1,17 @@
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Service\obj\Debug\net6.0\LG4.Study.Service.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Service\obj\Debug\net6.0\LG4.Study.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Service\obj\Debug\net6.0\LG4.Study.Service.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Service\obj\Debug\net6.0\LG4.Study.Service.AssemblyInfo.cs
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Service\obj\Debug\net6.0\LG4.Study.Service.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Service\bin\Debug\net6.0\LG4.Study.Service.deps.json
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Service\bin\Debug\net6.0\LG4.Study.Service.dll
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Service\bin\Debug\net6.0\LG4.Study.Service.pdb
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Service\bin\Debug\net6.0\LG4.Study.Data.dll
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Service\bin\Debug\net6.0\LG4.Study.Repository.dll
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Service\bin\Debug\net6.0\LG4.Study.Repository.pdb
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Service\bin\Debug\net6.0\LG4.Study.Data.pdb
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Service\obj\Debug\net6.0\LG4.Study.Service.csproj.CopyComplete
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Service\obj\Debug\net6.0\LG4.Study.Service.dll
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Service\obj\Debug\net6.0\refint\LG4.Study.Service.dll
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Service\obj\Debug\net6.0\LG4.Study.Service.pdb
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Service\obj\Debug\net6.0\ref\LG4.Study.Service.dll

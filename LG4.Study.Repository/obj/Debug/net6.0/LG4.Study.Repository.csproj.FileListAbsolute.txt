@@ -1,0 +1,17 @@
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Repository\bin\Debug\net6.0\LG4.Study.Repository.deps.json
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Repository\bin\Debug\net6.0\LG4.Study.Repository.dll
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Repository\bin\Debug\net6.0\LG4.Study.Repository.pdb
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Repository\bin\Debug\net6.0\LG4.Study.Data.dll
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Repository\bin\Debug\net6.0\LG4.Study.Data.pdb
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Repository\obj\Debug\net6.0\LG4.Study.Repository.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Repository\obj\Debug\net6.0\LG4.Study.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Repository\obj\Debug\net6.0\LG4.Study.Repository.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Repository\obj\Debug\net6.0\LG4.Study.Repository.AssemblyInfo.cs
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Repository\obj\Debug\net6.0\LG4.Study.Repository.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Repository\obj\Debug\net6.0\LG4.Study.Repository.csproj.CopyComplete
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Repository\obj\Debug\net6.0\LG4.Study.Repository.dll
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Repository\obj\Debug\net6.0\refint\LG4.Study.Repository.dll
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Repository\obj\Debug\net6.0\LG4.Study.Repository.pdb
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Repository\obj\Debug\net6.0\ref\LG4.Study.Repository.dll
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Repository\bin\Debug\net6.0\LG4.Study.Repository.runtimeconfig.json
+C:\Users\lucas\source\repos\LG4.Study.Dependency\LG4.Study.Repository\obj\Debug\net6.0\LG4.Study.Repository.genruntimeconfig.cache
